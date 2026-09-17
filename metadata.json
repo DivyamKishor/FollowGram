@@ -1,0 +1,6 @@
+{
+  "name": "FollowGram",
+  "description": "Privacy-first Instagram relationship and account analytics dashboard. Analyze followers, mutuals, and network activity 100% locally in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
